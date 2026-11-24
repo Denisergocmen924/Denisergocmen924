@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">DENIS ERGOCMEN</h1>
+<h1 align="center">DENIS ERGÖÇMEN</h1>
 
 <p align="center">
   <strong>Learning Cloud Engineering</strong>
