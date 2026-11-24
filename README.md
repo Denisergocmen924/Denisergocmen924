@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Denis%20Ergocmen%20Cloud%20Infrastructure%20Banner.png" width="100%" alt="Denis Ergocmen — Cloud Engineering, Systems, Infrastructure">
+  <img src="Banner.jpg" width="100%" alt="Denis Ergocmen — Cloud Engineering, Systems, Infrastructure">
 </div>
 
 <br>
